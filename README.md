@@ -53,8 +53,8 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 ## Happy Hacking
 
 ## Disclaimer
-<b>XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
+<b>AnilSPYProvides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+AnilSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://github.com/anilje8930/Anilspy/">Anil Rajput</a></p>
